@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D99E0</color>
+    <color name="colorPrimaryDark">#0277BD</color>
+    <color name="colorAccent">#0277BD</color>
+    <color name="tileColor">#ECEFF1</color>
+    <color name="background1">#009B95</color>
+    <color name="background2">#ECEFF1</color>
+    <color name="background3">#fa8231</color>
+    <color name="background4">#4CAF50</color>
+    <color name="green_login">#009B95</color>
+    <color name="orange_signup">#F57E20</color>
+    <color name="blue_offline">#1F61AD</color>
+    <color name="yellow_alert">#E09D14</color>
+
+    <color name="alert">#686de0</color>
+    <color name="surv_th">#FF5855</color>
+    <color name="surv_bg">#D4D4D4</color>
+    <color name="abo_h">#27AE60</color>
+    <color name="help_h">#0277BD</color>
+    <color name="saf_h">#3ACB9B</color>
+
+    <color name="volunteer">#4A78FF</color>
+    <color name="surv_card">#FF7C77</color>
+    <color name="abo_card">#27AE60</color>
+    <color name="help_card">#07588E</color>
+    <color name="saf_card">#1dd1a1</color>
+    <color name="weather_card">#e67e22</color>
+    <color name="find_missing">#3D99E0</color>
+    <color name="need_supplies">#E19E39</color>
+
+
+    <color name="head">#FF5855</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="black">#343739</color>
+
+
+    <color name="blackColorPrimary">#000001</color>
+</resources>

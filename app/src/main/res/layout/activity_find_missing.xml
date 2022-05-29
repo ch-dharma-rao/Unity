@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="dharma.unity.ui.FindMissingActivity">
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <RelativeLayout
+                android:id="@+id/layoutHead"
+                android:background="@color/colorPrimary"
+                android:layout_width="match_parent"
+                android:layout_height="250dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/findMissingTitle"
+                    android:text="Find Missing Ones"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp"
+                    android:layout_marginTop="30dp"
+                    android:layout_centerHorizontal="true"
+                />
+
+
+
+            <ImageView
+                    android:id="@+id/image_view"
+                    android:background="@drawable/ic_boy_light"
+                    android:layout_below="@id/findMissingTitle"
+                    android:layout_marginTop="30dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"/>
+
+
+            <EditText
+                    android:hint="Enter Name"
+                    android:textAlignment="center"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@android:color/white"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:layout_centerHorizontal="true"
+                    android:layout_below="@id/image_view"
+                    tools:text="Enter Name"
+                    android:enabled="true"
+                    android:id="@+id/edit_text_name"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+            <ProgressBar
+                    android:visibility="invisible"
+                    android:id="@+id/progressbar_pic"
+                    android:layout_centerInParent="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+        </RelativeLayout>
+        <LinearLayout
+                android:layout_marginTop="10dp"
+                android:padding="16dp"
+                android:layout_centerHorizontal="true"
+                android:orientation="vertical"
+                android:layout_below="@id/layoutHead"
+                android:layout_width="360dp"
+                android:layout_height="match_parent">
+            <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+
+                    <EditText
+                            android:hint="Enter Address"
+                            android:textAlignment="center"
+                            android:layout_marginTop="5dp"
+                            android:textColor="#07588E"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                            android:layout_centerHorizontal="true"
+                            tools:text="Enter Address"
+                            android:enabled="true"
+                            android:id="@+id/address"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+                    <EditText
+                            android:hint="Enter Mobile Number"
+                            android:textAlignment="center"
+                            android:layout_marginTop="5dp"
+                            android:textColor="#07588E"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                            android:layout_centerHorizontal="true"
+                            tools:text="Enter Mobile Number"
+                            android:enabled="true"
+                            android:id="@+id/mob_no_missing"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+                    <EditText
+                            android:hint="Enter Last Seen Location"
+                            android:textAlignment="center"
+                            android:layout_marginTop="5dp"
+                            android:textColor="#07588E"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                            android:layout_centerHorizontal="true"
+                            tools:text="Enter Last Seen Location"
+                            android:enabled="true"
+                            android:id="@+id/location_last_seen"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+
+                    <ProgressBar
+                            android:id="@+id/progressbar"
+                            android:visibility="invisible"
+                            android:layout_margin="10dp"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"/>
+
+                    <Button
+                            android:id="@+id/button_upload"
+                            android:layout_marginTop="15dp"
+                            android:textColor="@android:color/white"
+                            android:background="?colorPrimary"
+                            android:textAllCaps="false"
+                            android:layout_gravity="center_horizontal"
+                            android:text="Upload"
+                            android:layout_width="140dp"
+                            android:layout_height="wrap_content"/>
+                </LinearLayout>
+            </ScrollView>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

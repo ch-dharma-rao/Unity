@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             xmlns:card_view="http://schemas.android.com/apk/res-auto"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".ui.fragments.HomeFragment">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+
+                <androidx.cardview.widget.CardView
+                        android:id="@+id/maps"
+                        android:layout_width="135dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:clickable="true"
+                        app:cardCornerRadius="5dp"
+                        card_view:cardElevation="4dp"
+                        card_view:cardMaxElevation="10dp" android:focusable="true">
+
+                    <RelativeLayout
+                            android:layout_width="135dp"
+                            android:layout_height="wrap_content"
+                            android:background="#C5445A">
+
+
+                        <ImageView
+                                android:id="@+id/img"
+                                android:layout_width="90dp"
+                                android:layout_height="90dp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_margin="20dp"
+                                android:src="@drawable/map"/>
+
+                        <View
+                                android:id="@+id/vi"
+                                android:layout_width="match_parent"
+                                android:layout_height="2dp"
+                                android:layout_below="@+id/img"></View>
+
+                        <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:layout_below="@+id/vi"
+                                android:background="#ffffff">
+
+                            <TextView
+                                    android:id="@+id/tct"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:text="Maps /Shelters"
+                                    android:textColor="#000000"/>
+
+                        </RelativeLayout>
+
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+
+                <androidx.cardview.widget.CardView
+                        android:id="@+id/alerts"
+                        android:layout_width="135dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:clickable="true"
+                        app:cardCornerRadius="5dp"
+                        card_view:cardElevation="4dp"
+                        card_view:cardMaxElevation="10dp" android:focusable="true">
+
+                    <RelativeLayout
+                            android:layout_width="135dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/green_login">
+
+
+                        <ImageView
+                                android:id="@+id/img2"
+                                android:layout_width="90dp"
+                                android:layout_height="90dp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_margin="20dp"
+                                android:src="@drawable/emergency_alerts"/>
+
+                        <View
+                                android:id="@+id/vi2"
+                                android:layout_width="match_parent"
+                                android:layout_height="2dp"
+                                android:layout_below="@+id/img2"></View>
+
+                        <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:layout_below="@+id/vi2"
+                                android:background="#ffffff">
+
+                            <TextView
+                                    android:id="@+id/tct2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:text="Alerts/Live Updates"
+                                    android:textColor="#000000"/>
+
+                        </RelativeLayout>
+
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+
+                <androidx.cardview.widget.CardView
+                        android:id="@+id/need_supplies"
+                        android:layout_width="135dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:clickable="true"
+                        app:cardCornerRadius="5dp"
+                        card_view:cardElevation="4dp"
+                        card_view:cardMaxElevation="10dp"
+                        android:focusable="true">
+
+                    <RelativeLayout
+                            android:layout_width="135dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/need_supplies">
+
+
+                        <ImageView
+                                android:id="@+id/img_need_supplies"
+                                android:layout_width="90dp"
+                                android:layout_height="90dp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_margin="20dp"
+                                android:src="@drawable/need_supplies"/>
+
+
+                        <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:layout_below="@+id/img_need_supplies"
+                                android:background="#ffffff">
+
+                            <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:text="Need Help"
+                                    android:textColor="#000000"/>
+
+                        </RelativeLayout>
+
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                        android:id="@+id/be_volunteer"
+                        android:layout_width="135dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:clickable="true"
+                        app:cardCornerRadius="5dp"
+                        card_view:cardElevation="4dp"
+                        card_view:cardMaxElevation="10dp"
+                        android:focusable="true">
+
+                    <RelativeLayout
+                            android:layout_width="135dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/volunteer">
+
+
+                        <ImageView
+                                android:id="@+id/img_vol"
+                                android:layout_width="90dp"
+                                android:layout_height="90dp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_margin="20dp"
+                                android:src="@drawable/volunteer"/>
+
+
+                        <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:layout_below="@+id/img_vol"
+                                android:background="#ffffff">
+
+                            <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:text="Be Volunteer"
+                                    android:textColor="#000000"/>
+
+                        </RelativeLayout>
+
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+
+                <androidx.cardview.widget.CardView
+                        android:id="@+id/find_missing"
+                        android:layout_width="135dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:clickable="true"
+                        app:cardCornerRadius="5dp"
+                        card_view:cardElevation="4dp"
+                        card_view:cardMaxElevation="10dp"
+                        android:focusable="true">
+
+                    <RelativeLayout
+                            android:layout_width="135dp"
+                            android:layout_height="wrap_content"
+                            android:background="#F5AF0C">
+
+
+                        <ImageView
+                                android:id="@+id/img_find_missing"
+                                android:layout_width="90dp"
+                                android:layout_height="90dp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_margin="20dp"
+                                android:src="@drawable/find_missing_people"/>
+
+
+                        <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:layout_below="@+id/img_find_missing"
+                                android:background="#ffffff">
+
+                            <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:text="Find Missing Ones"
+                                    android:textColor="#000000"/>
+
+                        </RelativeLayout>
+
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+
+                <androidx.cardview.widget.CardView
+                        android:id="@+id/helpline"
+                        android:layout_width="135dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:clickable="true"
+                        app:cardCornerRadius="5dp"
+                        card_view:cardElevation="4dp"
+                        card_view:cardMaxElevation="10dp"
+                        android:focusable="true">
+
+                    <RelativeLayout
+                            android:layout_width="135dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/help_card">
+
+
+                        <ImageView
+                                android:id="@+id/img_helpine"
+                                android:layout_width="90dp"
+                                android:layout_height="90dp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_margin="20dp"
+                                android:src="@drawable/helpline"/>
+
+
+                        <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:layout_below="@+id/img_helpine"
+                                android:background="#ffffff">
+
+                            <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:text="Helpine/Contacts"
+                                    android:textColor="#000000"/>
+
+                        </RelativeLayout>
+
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+
+            </LinearLayout>
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+
+                <androidx.cardview.widget.CardView
+                        android:id="@+id/survival_guide"
+                        android:layout_width="135dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:clickable="true"
+                        app:cardCornerRadius="5dp"
+                        card_view:cardElevation="4dp"
+                        card_view:cardMaxElevation="10dp"
+                        android:focusable="true">
+
+                    <RelativeLayout
+                            android:layout_width="135dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/surv_th">
+
+
+                        <ImageView
+                                android:id="@+id/img_surv"
+                                android:layout_width="90dp"
+                                android:layout_height="90dp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_margin="20dp"
+                                android:src="@drawable/surv_guide"/>
+
+
+                        <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:layout_below="@+id/img_surv"
+                                android:background="#ffffff">
+
+                            <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:text="Survival Guide"
+                                    android:textColor="#000000"/>
+
+                        </RelativeLayout>
+
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+
+                <androidx.cardview.widget.CardView
+                        android:id="@+id/about"
+                        android:layout_width="135dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:clickable="true"
+                        app:cardCornerRadius="5dp"
+                        card_view:cardElevation="4dp"
+                        card_view:cardMaxElevation="10dp"
+                        android:focusable="true">
+
+                    <RelativeLayout
+                            android:layout_width="135dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/abo_card">
+
+
+                        <ImageView
+                                android:id="@+id/img_about"
+                                android:layout_width="90dp"
+                                android:layout_height="90dp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_margin="20dp"
+                                android:src="@drawable/abo"/>
+
+
+                        <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:layout_below="@+id/img_about"
+                                android:background="#ffffff">
+
+                            <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:text="About Disasters"
+                                    android:textColor="#000000"/>
+
+                        </RelativeLayout>
+
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</FrameLayout>

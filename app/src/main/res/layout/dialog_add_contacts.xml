@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_margin="20dp">
+
+    <TextView
+            android:id="@+id/add_contacts_dialog_head"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Contacts"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:textSize="25sp"/>
+    <EditText
+            android:id="@+id/dialogContactName"
+            android:hint="Enter Name"
+            android:inputType="text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minLines="1"
+            android:maxLines="1"/>
+
+    <EditText
+            android:id="@+id/dialogPhoneNumber"
+            android:hint="Enter Phone Number"
+            android:inputType="phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"/>
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="10dp">
+        <Button
+                android:id="@+id/dialogAddBtn"
+                android:text="Add"
+                style="@style/Base.Widget.AppCompat.Button.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+        <Button
+                android:id="@+id/dialogCancelBtn"
+                android:text="Cancel"
+                style="@style/Base.Widget.AppCompat.Button.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+    </LinearLayout>
+
+</LinearLayout>

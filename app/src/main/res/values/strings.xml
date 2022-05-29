@@ -1,0 +1,1023 @@
+<resources>
+    <string name="app_name">Unity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="images">image</string>
+
+
+    // Earthquake
+
+
+    <string name="aearthq_h">-: Earthquake :-</string>
+
+    <string name="aearthq_t1">\n
+        \nEarthquakes are a sudden slipping or movement of a portion of the earth’s crust, accompanied or followed by a
+        series of vibrations. Earthquakes strike suddenly, violently, without warning. Earthquakes occurring in a
+        populated area may cause many deaths, injuries and extensive damage to property.
+        \n\nTherefore, every citizen should be aware of risks and be better prepared to respond in case of a major
+        earthquake.
+        \n\nWe should ask ourselves the following questions:
+        \n\n• Why do earthquakes happen?
+        \n\n• How can we protect ourselves?
+        \n\n• What must we do to minimize the damage?
+        \n\n Earthquakes cannot be predicted but we can be proactive. Earthquake protection is about a whole series of
+        measures, small and big, that you can and must work on today to ensure that tomorrow is safe. The truth is
+        “Earthquake do not kill, unsafe buildings do!” Loss of human lives and injuries are caused due to collapse of
+        buildings. Poor design, poor construction, and poor maintenance - these are the killers.
+    </string>
+
+    <string name="aearthq_t2">
+        \n\nBefore an Earthquake
+        \n\nBefore an earthquake you can take some non structural mitigation measures to reduce risks, like those given
+        below:
+        \n\n• Make sure you have a fire extinguisher, first aid kit, a battery-powered radio, a flashlight, and extra
+        batteries at home.
+        \n\n• Learn first aid.
+        \n\n• Learn how to turn off the gas, water, and electricity.
+        \n\n• Make up a plan of where to meet your family after an earthquake.
+        \n\n• Don\'t leave heavy objects on shelves (they\'ll fall during a quake).
+        \n\n• Anchor heavy furniture, cupboards, and appliances to the walls or floor.
+        \n\n• Learn the earthquake plan at your school or workplace
+        \n\n
+    </string>
+
+    <string name="aearthq_t3">
+        \n\nDuring an Earthquake
+        \n\n
+        \n\n• Stay calm! If you\'re indoors, stay inside. If you\'re outside, stay outside.
+        \n\n• If you\'re indoors, stand against a wall near the center of the building, stand in a doorway, or crawl
+        under heavy furniture (a desk or table). Stay away from windows and outside doors.
+        \n\n• If you\'re outdoors, stay in the open away from power lines or anything that might fall. Stay away from
+        buildings (stuff might fall off the building or the building could fall on you).
+        \n\n• Don\'t use matches, candles, or any flame. Broken gas lines and fire don\'t mix.
+        \n\n• If you\'re in a car, stop the car and stay inside the car until the earthquake stops.
+        \n\n• Don\'t use elevators (they\'ll probably get stuck anyway).
+        \n\n
+    </string>/
+
+    <string name="aearthq_t4">
+        \n\nAfter an Earthquake
+        \n\n
+        \n\n• Check yourself and others for injuries. Provide first aid for anyone who needs it.
+        \n\n• Check water, gas, and electric lines for damage. If any are damaged, shut off the valves. Check for the
+        smell of gas. If you smell it, open all the windows and doors, leave immediately, and report it to the
+        authorities (use someone else\'s phone).
+        \n\n• Turn on the radio. Don\'t use the phone unless it\'s an emergency.
+        \n\n• Stay out of damaged buildings.
+        \n\n• Be careful around broken glass and debris. Wear boots or sturdy shoes to keep from cutting your feet.
+        \n\n• Be careful of chimneys (they may fall on you).
+        \n\n• Stay away from beaches. Tsunamis and seiches sometimes hit after the ground has stopped shaking.
+        \n\n• Stay away from damaged areas.
+        \n\n• If you\'re at school or work, follow the emergency plan or the instructions of the person in charge.
+        \n\nIf you are trapped under debris/rubble:
+        \n\n• Do not panic protect your head and face from falling objects.
+        \n\n• Crawl under a sturdy table, desk or bed as that will provide air space and protect against falling
+        objects.
+        \n\n• Use a torch to attract attention
+        \n\n• Do not use matches and candle if there is a danger of gas leak
+        \n\n• Do not shout
+        \n\nIf you are trapped under debris/rubble:
+        \n\n• Do not panic protect your head and face from falling objects.
+        \n\n• Crawl under a sturdy table, desk or bed as that will provide air space and protect against falling
+        objects.
+        \n\n• Use a torch to attract attention
+        \n\n• Do not use matches and candle if there is a danger of gas leak
+        \n\n• Do not shout,if you are in damaged area by sound vibration it may collapse.
+
+    </string>
+
+
+    // Floods
+
+
+    <string name="aflood_h">-: Floods :-</string>
+    <string name="aflood_t1">\n
+
+        Floods are natural occurrences where an area or land that is normally dry abruptly becomes submerged in water.
+        In simple terms, flood can be defined as an overflow of large quantities of water onto a normally dry land.
+        Flooding happens in many ways due to overflow of streams, rivers, lakes or oceans or as a result of excessive
+        rain.
+        \n\nWhenever flooding takes place, there is the possibility of loss of life, hardship to people, and extensive
+        damage to property. This is because flooding can carry bridges, cars, houses, and even people. Flooding also
+        destroys crops and can wipe away trees and other important structures on land. Some floods occur abruptly and
+        recede quickly whereas others take several days or even months to form and to recede because of variation in
+        size, duration, and the area affected.
+        \n\nCauses of Flooding
+        \n\nMany conditions result in flooding. Hurricanes, clogged drainages, and rainfall are some of the conditions
+        that have led to flooding in various regions across the globe. Here are the leading causes of flooding.
+        \n\n1. Rain
+        \n\nRain is the leading contributor to most of the flooding cases witnessed across the world. Too much rain
+        causes water to flow overland contributing to flooding. In particular, it is due to high rainfall intensity over
+        a prolonged period.
+        \n\nDepending on the rainfall distribution, the amount of rain, and soil moisture content, short rainfall period
+        can also result in flooding. Light rains for longer periods – several days or weeks, can also result in floods.
+        The rain water erosive force can weaken the foundations of buildings, causing tumbles and cracks.
+        \n\n2. River Overflows
+        \n\nRivers or streams can overflow their banks. This happens when the river or stream holds more water upstream
+        than usual, and it flows downstream to the neighboring low-lying areas, typically referred to as the
+        floodplains. As a consequence, this creates a sudden discharge of water into the adjacent lands leading to
+        flooding.
+        \n\nDams in rivers may also at times overwhelm rivers when the carriage capacity is exceeded, causing the water
+        to burst and get into the floodplains. Flood caused by river overflow has the potential of sweeping everything
+        in its path downstream.
+        \n\n3. Lakes and Coastal Flooding
+        \n\nLake and Coastal flooding occurs when large storms or tsunamis causes the water body to surge inland. These
+        overflows have destructive power since they can destroy ill-equipped structures to withstand water’s strength
+        such as bridges, houses, and cars.
+        \n\nIn the coastal areas, strong and massive winds and hurricanes drive water onto the dry coastal lands and
+        give rise to flooding. The situation is even worsened when the winds blowing from the ocean carry rains in them.
+        Sea waters from the tsunami or hurricane can cause widespread damage.
+        \n\n4. Dam Breakage
+        \n\nDams are man-made structures used to hold water from flowing down from a raised ground. The potential energy
+        stored in the dam water is used to generate electricity. At times, the walls can become weak and break because
+        of overwhelming carriage capacity. Due to this reason, breakage of the dam can cause extensive flooding in the
+        adjacent areas.
+        \n\nFlooding occurs when the embankments built along the sides of the river to stop high water from flowing onto
+        the land breaks. Sometimes, the excess water from the dam is deliberately released from the dam to prevent it
+        from breaking thereby causing floods.
+        \n\n5. Melting of the Glaciers and Mountain Tops
+        \n\nIn the cold regions, ice and snows build up during the winters. When the temperature rises in summer, the
+        accumulated snows and ice are subjected to melting resulting in vast movements of water into lands that are
+        normally dry. Regions with mountains that have ice on top of them also experience the same outcome when the
+        atmospheric temperature rises. This type of flooding is usually termed as snowmelt flood.
+        \n\n6. Clogged Drainages
+        \n\nFlooding also takes place when snowmelt or rainfall runoff cannot be channeled appropriately into the
+        drainage systems forcing the water to flow overland. Clogged or lack of proper drainage system is usually the
+        cause of this type of flooding.
+        \n\nThe areas remain flooded until the stormwater systems or waterways are rectified. Instances where the
+        systems or water ways are not rectified, the areas remain flooded until the excess water evaporates or is
+        transpired into the atmosphere by plants.
+
+
+    </string>
+
+    // #### House Fire
+    <string name="ahousefire_h">-: Wild Fire :-</string>
+    <string name="ahousefire_t1">\n
+        \n\nIn just two minutes, a fire can become life-threatening. In five minutes, a residence can be engulfed in
+        flames.
+        \n\nLearn About Fires
+        \n\n
+        \n\n Fire is FAST! In less than 30 seconds a small flame can turn into a major fire. It only takes minutes for
+        thick black smoke to fill a house or for it to be engulfed in flames.
+        \n\n Fire is HOT! Heat is more threatening than flames. Room temperatures in a fire can be 100 degrees at floor
+        level and rise to 600 degrees at eye level. Inhaling this super-hot air will scorch your lungs and melt clothes
+        to your skin.
+        \n\n Fire is DARK! Fire starts bright, but quickly produces black smoke and complete darkness.
+        \n\n Fire is DEADLY! Smoke and toxic gases kill more people than flames do. Fire produces poisonous gases that
+        make you disoriented and drowsy. Asphyxiation is the leading cause of fire deaths, exceeding burns by a
+        three-to-one ratio.
+        \n\n
+    </string>
+
+
+    // ### Landslide
+
+
+    <string name="landside_h">-: Landslides :-</string>
+    <string name="landslide_t1">
+        \n\nA landslide happens when rocks, debris, and soil move down a slope. They\'re also known as landslips. Things
+        can go downhill suddenly, or they can slide at the snail\'s pace of just a couple centimeters a year. They can
+        come from natural causes or from the activities of people. The one thing they all have in common is gravity.
+        What is up sometimes slides down.
+        \n\n
+        \n\n Causes of Landslides
+        \n\n
+        \n\nThe cause of a landslide that has to do with the structural combination of rock, soil and vegetation is the
+        morphology. If a hillside has lost vegetation because of a fire for instance, then the addition of water can
+        cause erosion, upping the chances for a landslide. It\'s not only rain that can cause erosion but flowing
+        rivers, moving glaciers, and crashing ocean waves. The geology or strength of the earth material itself can also
+        be a factor in landslides. Stronger material is less likely to break apart and slide down the slope. And
+        finally, there are human activities that can expose slopes to erosion and lead to landslides. Clearing land for
+        agriculture or construction are some of the human causes of landslides.
+        \n\n
+    </string>
+
+    // First Aid
+
+    // ###### Burns
+
+
+    <string name="burns_h">-: Burns :-</string>
+
+
+    <string name="burns_t1">
+        \n1. Halt the burning process to stop the injury. \n\n
+        Even if you are no longer in contact with the cause of the burn (such as an open flame or the sun), tissue
+        damage can continue. Thus, it is essential you reduce further damage first before attempting to clean the
+        injured area \n\n
+        • Place the affected part under cool running water for approximately 15-20 minutes.\n\n
+        • If the burn is on your face, hands, over a joint, or is large, seek medical attention right away.\n\n
+        • Use warm water for less harsh chemicals or when there is chemical exposure to the eyes.\n\n
+        • It is also important that you call your doctor if you have a chemical exposure to your eyes or mouth as this
+        can cause more serious complications.\n\n
+        • In the case of a chemical burn, you must neutralize the burning chemical. If you are unsure how to do this,
+        seek medical attention.\n\n
+        • If you are not near water, apply a cool compress to the area such as an ice pack wrapped in a towel.\n\n\n
+    </string>
+
+    <string name="burns_t2">\n
+        2. Apply lotion to the burn.\n\n
+        Use aloe vera lotion or gel or a low-dose hydrocortisone cream to protect the skin and help the healing
+        process\n\n
+        • Be sure to pat dry the skin before applying any lotion if needed.\n\n
+        • Reapply the aloe vera lotion throughout the day to ensure the affected area remains moist, but don\'t use
+        hydrocortisone cream more than twice a day.\n\n
+
+
+    </string>
+
+    <string name="burns_t3">\n
+        3. Take over-the-counter pain reliever if the burn is causing pain. Burn injuries can be painful and thus you
+        may want to take an over-the-counter pain medication (such as acetaminophen or ibuprofen). \n\n
+        • Use the medication according to the label and do not exceed the recommended dose. In case of severe or
+        continuing pain, seek medical attention.\n\n
+
+
+    </string>
+
+    <string name="burns_t4">\n
+        4. Try to keep blisters intact. Burn injuries often result in blisters — fluid-filled pockets under your skin.
+        \n\n• If the blister breaks, rinse the area with water, apply antimicrobial ointment and cover the area with a
+        non-stick bandage.
+
+
+    </string>
+
+    <string name="burns_t5">\n
+        5. Watch the area for signs of infection. If redness, tenderness, swelling or drainage develops, apply
+        antimicrobial ointment and cover the burn with clean gauze to protect it while it heals.
+        \n\n• Contact a physician if the burn gets worse, does not appear to ease, it looks infected and is not getting
+        better quickly with home care, or develops severe blisters or discoloration of any kind.
+    </string>
+
+
+    // ###### Cuts
+
+
+    <string name="cuts_h">-: Cuts/Bandages :-</string>
+    <string name="cuts_t1">\n
+
+        1. Wash your hands. This helps avoid infection.\n\n
+        2. Stop the bleeding. Minor cuts and scrapes usually stop bleeding on their own. If needed, apply gentle
+        pressure with a clean bandage or cloth and elevate the wound until bleeding stops.\n\n
+        3. Clean the wound. Rinse the wound with water. Keeping the wound under running tap water will reduce the risk
+        of infection. Wash around the wound with soap. But don\'t get soap in the wound. And don\'t use hydrogen
+        peroxide or iodine, which can be irritating. Remove any dirt or debris with a tweezers cleaned with alcohol. See
+        a doctor if you can\'t remove all debris.\n\n
+        4. Apply an antibiotic or petroleum jelly. Apply a thin layer of an antibiotic ointment or petroleum jelly to
+        keep the surface moist and help prevent scarring. Certain ingredients in some ointments can cause a mild rash in
+        some people. If a rash appears, stop using the ointment.\n\n
+        5. Cover the wound. Apply a bandage, rolled gauze or gauze held in place with paper tape. Covering the wound
+        keeps it clean. If the injury is just a minor scrape or scratch, leave it uncovered.\n\n
+        6. Change the dressing. Do this at least once a day or whenever the bandage becomes wet or dirty.\n\n
+        7. Get a tetanus shot. Get a tetanus shot if you haven\'t had one in the past five years and the wound is deep
+        or dirty.\n\n
+        8. Watch for signs of infection. See a doctor if you see signs of infection on the skin or near the wound, such
+        as redness, increasing pain, drainage, warmth or swelling.\n\n
+
+    </string>
+    // ##### Fractures
+
+    <string name="fractures_h">-: Fractures :-</string>
+    <string name="fractures_t1">\n
+
+        \n\n
+        1.
+        \n\nAssess the injured area. In an emergency situation with no trained medical people around, you need to
+        quickly assess the seriousness of the injury. Trauma from a fall or accident coupled with severe pain is not a
+        guarantee of a broken bone, but it\'s usually a pretty good indicator. Fractures involving the head, spine or
+        pelvis are difficult to tell without an x-ray, but you suspect a break in one of these areas you should not
+        attempt to move the person. Bones in the arms, legs, fingers, and toes will typically look crooked, misshapen or
+        obviously out of place when broken. A severely broken bone might poke out through the skin (open fracture) and
+        involve profuse bleeding.
+        \n\no Other common symptoms of broken bones include: limited use of the injured area (reduced mobility or unable
+        to put any weight on it), immediate local swelling and bruising, numbness or tingling downstream from the break,
+        shortness of breath, nausea.
+        \n\no Be very careful when assessing the injury not to cause much movement. Moving a person with an injured
+        spine, neck, pelvis or skull is very risky without medical training and should be avoided.
+        \n\n
+
+        \n\n2.
+        \n\nCall for emergency help if the injury is severe. Once you\'ve established that the injury is serious and
+        suspect that a broken bone is likely, then call 1-0-2 for an ambulance and get professional medical help on
+        their way as quickly as you can. Providing immediate rudimentary first aid and supportive care are certainly
+        helpful, but it\'s no substitute for trained medical attention. If you are close to a hospital or emergency
+        clinic and are quite certain the injury is not life threatening and only involves a limb, then consider driving
+        the injured person to the facility.
+        \n\no Even if you think your fracture is not life threatening, resist the urge to drive yourself to the
+        hospital. You may not be able to operate your vehicle properly or may lose consciousness from the pain and
+        become a road hazard.
+        \n\no If the injury appears severe, stay on the line with the 1-0-2 dispatcher in case conditions get worse in
+        order to get helpful instructions and emotional support.
+        \n\no Call emergency services if you notice the following: call for emergency help if The person is
+        unresponsive, isn\'t breathing, or isn\'t moving; there is heavy bleeding; gentle pressure or movement causes
+        pain; the limb or joint appears deformed; the bone has pierced the skin; the extremity of the injured arm or
+        leg, such as a toe or finger, is numb or bluish at the tip; you suspect a bone is broken in the neck, head or
+        back.
+        \n\n
+
+        \n\n3.
+        \n\nProvide CPR if necessary. If the injured person is not breathing and you can\'t feel a pulse on her wrists
+        or neck, then start administering cardiopulmonary resuscitation (if you know how to) before the ambulance
+        arrives. CPR involves clearing the airways, blowing air into the mouth / lungs and trying to restart the heart
+        by rhythmically pushing on the chest.
+        \n\no A lack of oxygen for much more than five to seven minutes causes, at least, some degree of brain damage,
+        so time is of the essence.
+        \n\no If you\'re not trained in CPR, then provide hands-only CPR — uninterrupted chest compressions at a rate of
+        about 100 per minute until paramedics arrive.
+        \n\no If you\'re well-trained in CPR, begin with chest compressions immediately (about 20 – 30) and then check
+        the airway for obstruction and start doing rescue breathing after tilting the head back at a slight angle.
+        \n\no For a spine, neck, or skull injury, do not use the head-tilt-chin-lift method. Use the jaw-thrust method
+        of airway opening, but only if you have been trained how to do so. The jaw-thrust method involves kneeling
+        behind the person and placing a hand on either side of her face, middle and index fingers beneath and behind the
+        jaw. Push each side of the jaw forward until it juts out.
+
+        \n\n4.
+        \n\nStop any bleeding. If the injury is bleeding significantly (more than a few drops), then you must attempt to
+        stop it regardless if there is a fracture or not. Significant bleeding from the main artery can lead to death
+        within a few minutes. Controlling the bleeding is a higher priority than addressing a broken bone. Apply firm
+        pressure to the wound with a sterile and absorbent bandage (ideally), although a clean towel or piece of
+        clothing will do in an emergency.Hold it there for a few minutes to encourage the blood to clot at the injury
+        site. Secure the bandage around the wound with an elastic bandage or piece of cloth if you can.
+        \n\no If the bleeding won\'t stop from an injured limb, you may have to tie a tight tourniquet above the wound
+        to temporarily cut off the circulation until medical help arrives. A tourniquet can be made of virtually
+        anything that can be secured tight — string, rope, cord, rubber tubing, leather belt, necktie, scarf, tee-shirt,
+        etc.
+        \n\no If there is a large object penetrating into the skin, do not remove it. It may be clotting the wound, and
+        removing it could cause severe bleeding.
+        \n\n
+        \n\n
+
+
+    </string>
+
+
+    <string name="fractures_t2">
+
+        \n\nAddressing the Broken Bone
+        \n\n
+        1.
+        \n\nImmobilize the broken bone. After the injured person is stabilized, it\'s time to immobilize the broken bone
+        if you anticipate a wait of an hour or longer for emergency medical personnel. Immobilizing it can help reduce
+        the pain and protect the broken bone from further injury caused by inadvertent movement. If you don\'t have
+        proper training, don\'t try to realign the bone. Attempting to align broken bones improperly can lead to further
+        damage to blood vessels and nerves, leading to potential bleeding and potential paralysis. Keep in mind that
+        splints only work for limb bones, not those of the pelvis or torso.
+        \n\no The best method of immobilization is to make a simple splint. Place a piece of stiff cardboard or plastic,
+        a branch or stick, a metal rod, or rolled up newspaper/magazine on either side of the injury to support the
+        bone. Tie these supports together firmly with tape, string, rope, cord, rubber tubing, leather belt, necktie,
+        scarf, etc.
+        \n\no When splinting a fractured bone, try to allow movement in the adjacent joints and don\'t secure it too
+        tight — allow appropriate blood circulation.
+        \n\no Splinting may not be necessary if emergency services are coming right away. In this case, splinting may
+        cause more harm than good if you don\'t have the appropriate training.
+        \n\n
+        2.
+        \n\nApply ice to the injury. Once the broken bone is immobilized, apply something cold (preferably ice) to it as
+        soon as you can while you wait for the ambulance. Cold therapy has many benefits, including numbing the pain,
+        reducing inflammation / swelling and reducing bleeding by causing the arteries to constrict. If you don\'t have
+        ice handy, consider using frozen gel packs or bags of vegetables, but make sure to wrap anything cold in a thin
+        cloth in order to avoid ice burn or frostbite.
+        \n\no Apply ice for about 20 minutes or until the area is completely numb before removing it. Compressing it
+        against the injury may help reduce swelling even more as long as it doesn\'t increase the pain.
+        \n\no While applying the ice, make sure the broken bone is elevated in order to combat swelling and slow down
+        bleeding (if applicable).
+        \n\n
+        3.
+        \n\nKeep calm and watch for signs of shock. Breaking a bone is very traumatic and painful. Fear, panic, and
+        shock are all common reactions, but they can have negative consequences for the body, so they must be
+        controlled. As such, calm yourself and/or the injured person by reassuring him that help is on the way and the
+        situation is under control. As you wait for help, cover the person to keep him warm and hydrate him if they are
+        thirsty. Keep talking to him to distract him from focusing on his injury.
+        \n\no Signs of shock include: feeling faint / dizzy, pale complexion, cold sweats, rapid breathing, increased
+        heart rate, confusion, irrational panic.
+        \n\no If it looks like the person is in shock, lay him down with his head supported and elevate his legs. Keep
+        him covered with a blanket or jacket, or even a table cloth if those things are not available.
+        \n\no Shock is dangerous because blood and oxygen are routed away from vital organs. This physiological state,
+        if left untreated, can ultimately cause organ damage.
+        \n\n
+        4.
+        \n\nConsider pain medication. If the wait for emergency medical personnel is longer than an hour (or you
+        anticipate it being a long wait), then consider taking / giving some medication, if you have any, to control the
+        pain and make the wait more tolerable. Acetaminophen (Tylenol) is the painkiller most appropriate for broken
+        bones and other internal injuries because it doesn\'t "thin" the blood and promote more bleeding.
+        \n\no Over-the-counter anti-inflammatories such as aspirin and ibuprofen (Advil) are helpful for pain and
+        inflammation, but they inhibit blood clotting, so they aren\'t a good idea for internal injuries such as broken
+        bones.
+        \n\no In addition, aspirin and ibuprofen should not be given to young children, because they may cause dangerous
+        side effects.
+
+
+    </string>
+    // #### Punchers
+    <string name="punchers_h">-: Punchers :-</string>
+    <string name="punchers_t1">\n
+
+        \n\n
+        \n\n1 .Wash your hands before attempting to care for the wound. Use warm water and soap and rinse at least for
+        30 seconds to ensure your hands are clean.
+        \n\n• Also, dry your hands well before touching the affected area to reduce the risk of infection.
+        \n\n
+
+        \n\n2 .Rinse the affected area with clean water to remove dirt and debris. If washing does not remove all
+        debris, use tweezers cleaned with alcohol to remove the particles. Also, remove the object that caused the
+        puncture if still present.
+        \n\n• If the object that caused the puncture is still inside your skin and cannot be removed completely, or if
+        you cannot remove the object without causing further damage, seek medical attention.
+        \n\n
+        \n\n
+        \n\n3 .Apply pressure with a clean cloth to stop bleeding. If bleeding occurs, apply pressure to stop it. You
+        can use a clean cloth to press the injury or, if available, an ice pack wrapped in a towel.
+        \n\n• Depending on the type and size of the injury, the puncture might not be bleeding at all.
+        \n\n
+        \n\n
+
+        \n\n4 .Apply a thin layer of antimicrobial ointment over the area. Do this ONLY for superficial wounds. If the
+        wound is large, open and affects deep tissues, do not apply any topical medication and seek medical attention.
+
+
+        \n\n
+        \n\n5 .Cover the wound with a clean dressing or a bandage. This will help keep the wound clean and reduces the
+        risk of infection and other complications.
+        \n\n• Change the bandage a few times a day and every time it gets wet or dirty.
+        \n\n• Consult your doctor whether you should receive a tetanus booster shot within 48 hours. This is usually
+        recommended if it\'s been more than 5 years since you\'ve had a tetanus shot. Even minor puncture wounds can
+        lead to infection.
+
+
+        \n\n
+        \n\n6 .Watch the area for signs of infection (redness, pain, pus or swelling). If the wound is not healing or
+        you notice excessive pain, warmth, redness and/or drainage, seek medical attention immediately.
+        \n\n
+
+    </string>
+
+    // ##### Snake Bites
+
+
+    <string name="sb_h">-: Snake Bites :-</string>
+    <string name="sb_t1">\n
+
+        \n\nWhile many snakes are harmless, the bite of some species can be poisonous and even deadly. Common species of
+        poisonous snakes:
+        \n\n• copperhead
+        \n\n• coral
+        \n\n• cottonmouth
+        \n\n• rattlesnake
+        \n\nSymptoms of a poisonous snake bite can vary, depending on the type of snake. They can include:
+        \n\n• weakness
+        \n\n• dizziness
+        \n\n• fainting
+        \n\n• convulsions
+        \n\n• nausea
+        \n\n• vomiting
+        \n\n• diarrhea
+        \n\n• rapid pulse
+        \n\n• loss of muscle coordination
+        \n\n• swelling in the area of the bite
+        \n\n\n\n
+        A poisonous snake bite is a medical emergency. Prompt treatment can minimize symptoms and promote recovery.
+        \n\n
+
+    </string>
+
+    <string name="sb_t2">\n
+
+        \n\nFirst aid treatment for mild bites\n\n
+        \n\nIf someone has been bitten by a snake, and you suspect it may be poisonous, help them get emergency medical
+        treatment and follow the steps in the next session. If you know the snake wasn’t poisonous, treat the area of
+        the bite for bleeding and other symptoms:
+        \n\n• Use a clean cloth or gauze to apply pressure to the area until bleeding stops.
+        \n\n• Clean the area with soap and water.
+        \n\n• Apply an antibiotic cream to help ward off infection.
+        \n\n• Cover the wound with a sterile bandage or gauze to protect it while it heals.
+        \n\nIf the person is experiencing severe bleeding, help them get emergency medical treatment. Continue to apply
+        new layers of cloth or gauze to the bleeding area, on top of layers that have been soaked through with blood.
+        Removing old layers can make the bleeding worse.
+        \n\nEmergency treatment for poisonous snake bites
+        \n\nIf you suspect that someone has been bitten by a poisonous snake:
+        \n\n• Help them get medical help immediately. You can also call 102
+        \n\n• Encourage them to remain calm, lie down quietly, and stay still. Movement can cause the venom to spread
+        through their body more quickly.
+        \n\n• Remove tight jewelry or clothing around the site of the bite, since swelling may occur.
+        \n\n• If they develop pale and clammy skin, dizziness, weakness, shortness of breath, or increased heart rate,
+        treat them for shock. Give them a blanket or extra layer of clothing to stay warm.
+        \n\n• If you can do so safely, take a description or picture of the snake that bit them. This can help medical
+        professionals identify the snake and an appropriate course of treatment.
+        \n\nTo avoid making things worse, do not:
+        \n\n• endanger yourself by trying to capture the snake
+        \n\n• wash the site of the bite, since residual venom can help medical professionals identify the type of snake
+        and proper treatment
+        \n\n• apply a cold compress to the site of the bite
+        \n\n• raise the bitten area above the level of their heart
+        \n\n• cut or suck the site of the bite
+        \n\n• give the person anything to eat or drink
+        \n\n• give the person any pain medications
+        \n\n
+
+    </string>
+
+    // ##### Food
+
+
+    <string name="sfood_h">-: Food :-</string>
+    <string name="sfood_t1">Following a disaster, there may be power outages that could last for several days. Stock
+        canned foods, dry
+        mixes and other staples that do not require refrigeration, cooking, water or special preparation. Be sure to
+        include a manual can opener and eating utensils.
+        \n\nSuggested Emergency Food Supplies
+        \n\nConsider the following things when putting together your emergency food supplies:
+        \n\n• Store at least a three-day supply of non-perishable food.
+        \n\n• Choose foods your family will eat.
+        \n\n• Remember any special dietary needs.
+        \n\n• Avoid foods that will make you thirsty.
+        \n\nThe following items are suggested when selecting emergency food supplies. You may already have many of these
+        on hand. Download the Recommended Supplies List (PDF)
+        \n\n• Ready-to-eat canned meats, fruits, vegetables and a can opener
+        \n\n• Protein or fruit bars
+        \n\n• Dry cereal or granola
+        \n\n• Peanut butter
+        \n\n• Dried fruit
+        \n\n• Canned juices
+        \n\n• Non-perishable pasteurized milk
+        \n\n• High energy foods
+        \n\n• Food for infants
+        \n\n• Comfort/stress foods
+        \n\nFood Safety and Sanitation
+        \n\nWithout electricity or a cold source, food stored in refrigerators and freezers can become unsafe. Bacteria
+        in food grow rapidly at temperatures between 40 and 140 °F, and if these foods are consumed you can become very
+        sick. Thawed food usually can be eaten if it is still “refrigerator cold.” It can be re-frozen if it still
+        contains ice crystals. To be safe, remember, “When in doubt, throw it out.”
+        \n\nDo:
+        \n\n• Keep food in covered containers.
+        \n\n• Keep cooking and eating utensils clean.
+        \n\n• Discard any food that has come into contact with contaminated flood water.
+        \n\n• Discard any food that has been at room temperature for two hours or more.
+        \n\n• Discard any food that has an unusual odor, color or texture.
+        \n\n• Use ready-to-feed formula. If you must mix infant formula use bottled water, or boiled as a last resort.
+        \n\nDon’t:
+        \n\n• Eat foods from cans that are swollen, dented or corroded, even though the product may look safe to eat.
+        \n\n• Eat any food that looks or smells abnormal, even if the can looks normal.
+        \n\n• Let garbage accumulate inside, both for fire and sanitation reasons.
+        \n\nCooking
+        \n\nAlternative cooking sources can be used in times of emergency including candle warmers, chafing dishes,
+        fondue pots or a fireplace. Charcoal grills and camp stoves are for outdoor use only. Commercially canned food
+        may be eaten out of the can without warming.
+        \n\nTo heat food in a can:
+        \n\n1. Remove the label.
+        \n\n2. Thoroughly wash and disinfect the can. (Use a diluted solution of one part bleach to ten parts water.)
+        \n\n3. Open the can before heating.
+        \n\nManaging Food without Power
+        \n\n• Keep the refrigerator and freezer doors closed as much as possible.
+        \n\n• The refrigerator will keep food cold for about 4 hours if it is unopened.
+        \n\n• Refrigerated or frozen foods should be kept at 40° F or below for proper food storage.
+        \n\n• Use a refrigerator thermometer to check temperature.
+        \n\n• Refrigerated food should be safe as long as the power was out for no more than 4 hours.
+        \n\n• Discard any perishable food (such as meat, poultry, fish, eggs or leftovers) that has been above 40° F for
+        two hours or more.
+        \n\nUsing Dry Ice:
+        \n\n• Know where you can get dry ice prior to a power outage.
+        \n\n• Twenty-five pounds of dry ice will keep a 10-cubic-foot freezer below freezing for 3-4 days.
+        \n\n• If you use dry ice to keep your food cold, make sure it does not come in direct contact with the food.
+        \n\n• Use care when handling dry ice, wear dry, heavy gloves to avoid injury.
+        \n\n
+
+
+    </string>
+
+    // ##### Landslides
+
+
+    <string name="sur_landside_h">-: Landslides :-</string>
+    <string name="sur_landslide_t1">\n
+        \n\n
+        \n\nBefore a landslide :
+        \n\nBe aware of your environment. If you travel or are on vacation somewhere, look around and make sure you
+        understand where the threat may be. Look out for slopes and tricky landscapes. Contact your local authorities
+        and tell them about your observations.
+        \n\n
+        \n\nWhen you drive around hills or mountains, keep your eyes and ears open for signs of debris falling. Plan
+        communications with your family so that you know where they are and what you will do in an event of a landslide.
+        Have an emergency kit in a safe and reliable place. Talk to neighbors and discuss an escape plan. If possible,
+        evacuate before it happens.
+        \n\n
+        \n\nDuring a landslide:
+        \n\nLandslides and mudslides happen very fast and there may be very little time to act. Move away quickly from
+        the path of the mudflow or landslide to another location. Do not try to stay close and take photographs.
+        Landslide debris move from uphill to downhill, therefore, avoid low-lying areas or valleys. If there is a way to
+        sound an alarm, do so.
+        \n\nListen and look out for signs of further flows in that area, as the flowing debris often knock against
+        surrounding slopes and sets off new flows.
+        \n\n
+        \n\nAfter a landslide:
+        \n\nStay away from the location until the emergency workers and the experts confirm that it is safe to go back.
+        Look out for loose wires, broken utility lines, and hanging objects, as they may be hazards. Report them to your
+        rescue officials. Get in touch with emergency officials or listen to the radio or TV on what to do.
+        \n\n
+    </string>
+
+    // ##### Floods
+
+
+    <string name="sflood_h">-: Floods :-</string>
+    <string name="sflood_t1">\n
+
+
+        \n\n
+        BEFORE A FLOOD (When Flooding is Forecast)\n\n
+        Be alert.\n\n
+        • Monitor your surroundings.\n\n
+        • Monitor Weather by local television and radio stations.\n\n
+        If a flash flood warning is issued for your area: Climb to safety immediately.\n\n
+        • Flash floods develop quickly. Do not wait until you see rising water.\n\n
+        • Get out of low areas subject to flooding.\n\n
+        • If driving, do not drive through flooded roadways!\n\n
+        Assemble disaster supplies:\n\n
+        • Drinking water – Fill clean containers.\n\n
+        • Food that requires no refrigeration or cooking.\n\n
+        • Cash.\n\n
+        • Medications and first aid supplies.\n\n
+        • Clothing, toiletries.\n\n
+        • Battery-powered radio.\n\n
+        • Flashlights.\n\n
+        • Extra batteries.\n\n
+        • Important documents: insurance papers, medical records, bank account numbers.\n\n\n\n
+        Be prepared to evacuate.\n\n
+        • Identify places to go.\n\n
+        • Identify alternative travel routes that are not prone to flooding.\n\n
+        • Plan what to do with your pets.\n\n
+        • Fill your car’s gas tank.\n\n
+        • If told to leave, do so quickly.\n\n
+        Review your Family Disaster Plan.\n\n
+        • Discuss flood plans with your family.\n\n
+        • Decide where you will meet if separated.\n\n
+        • Designate a contact person who can be reached if family members get separated. Make sure every family member
+        has the contact information.\n\n
+        Protect your property.\n\n
+        • Move valuables and furniture to higher levels.\n\n
+        • Move hazardous materials (such as paint, oil, pesticides, and cleaning supplies) to higher locations.\n\n
+        • Disconnect electrical appliances. Do not touch them if you are wet or standing in water.\n\n
+        • Bring outside possessions indoors or tie them down securely. This includes lawn furniture, garbage cans, and
+        other movable objects.\n\n
+        • Seal vents to basements to prevent flooding.\n\n\n\n
+
+
+    </string>
+
+    <string name="sflood_t2">\n
+        \n\nDURING A FLOOD\n\n
+        Be alert.\n\n
+        • Monitor your surroundings.\n\n
+        • Monitor by local television and radio stations, or go to \n\n
+        Don’t drive unless you have to.\n\n
+        If you must drive, travel with care.\n\n
+        • Make sure your vehicle has enough fuel.\n\n
+        • Follow recommended routes. DO NOT sightsee.\n\n
+        • Avoid disaster areas. Your presence might hamper rescue or other emergency operations and put you at further
+        risk.\n\n
+        • Watch for washed out roads, earth slides, and downed trees or power lines.\n\n
+        • Be especially cautious at night, when it is harder to recognize flood dangers.\n\n
+        • If the vehicle stalls, abandon it.\n\n
+        • If water rises around your car, leave the vehicle immediately. Climb to higher ground as quickly as
+        possible.\n\n
+        NEVER drive through flooded roadways. STOP! Turn Around Don’t Drown.\n\n
+        • The roadbed may be washed out.\n\n
+        • You can lose control of your vehicle in only a few inches of water.\n\n
+        • Your car may float. Vehicles can be swept away by less than 2 feet of water.\n\n
+        • Do not drive around a barricade. Turn around and go another way!\n\n
+        Get to high ground – Climb to safety!\n\n
+        • Get out of low areas that may be subject to flooding.\n\n
+        • Avoid already-flooded areas and do not attempt to cross flowing water.\n\n
+        • Stay away from power lines and electrical wires.\n\n
+        Evacuate immediately, if you think you are at risk or are advised to do so!\n\n
+        • Act quickly. Save yourself, not your belongings.\n\n
+        • Move to a safe area before access is cut off by rising water.\n\n
+        • Families should use only one vehicle to avoid getting separated and reduce traffic jams.\n\n
+        • Shut off water, gas, and electrical services before leaving.\n\n
+        • Secure your home: lock all doors and windows.\n\n
+        • If directed to a specific location, go there.\n\n
+        Never try to walk or swim through flowing water.\n\n
+        • If flowing water is above your ankles, STOP! Turn around and go another way.\n\n
+        • If it is moving swiftly, water 6 inches deep can knock you off your feet.\n\n
+        • Be aware that people have been swept away wading through flood waters.\n\n
+        • NEVER allow children to play around high water, storm drains, creeks, or rivers.\n\n
+        Shut off the electricity at the circuit breakers.\n\n
+        If someone falls in or is trapped in flood water:\n\n
+        • Do not go after the victim!\n\n
+        • Use a floatation device. If possible throw the victim something to help them float, such as a spare tire,
+        large ball, or foam ice chest.\n\n
+        • Call 108. Call for assistance and give the correct location information.\n\n
+
+    </string>
+
+
+    <string name="sflood_t3">\n
+
+        \n\nAFTER A FLOOD\n\n
+        Wait until it is safe to return.\n\n
+        • Monitor NOAA Weather Radio or local television and radio stations.\n\n
+        • Do not return to flooded areas until authorities indicate it is safe to do so.\n\n
+        • Do not visit disaster areas following a flood. Your presence may hamper urgent emergency response and rescue
+        operations.\n\n
+        Travel with care. \n\n
+        • Follow recommended routes. DO NOT sightsee.\n\n
+        • Watch for washed out roads, earth slides, and downed trees or power lines.\n\n
+        • Stay away from downed power lines.\n\n
+        If a building was flooded, check for safety before entering.\n\n
+        • Do not enter a building if it is still flooded or surrounded by floodwater.\n\n
+        • Check for structural damage. Inspect foundations for cracks or other damage.\n\n
+        • Turn off any outside gas lines at the meter tank.\n\n
+        • Do not enter a building that has flooded until local building officials have inspected it for safety.\n\n
+        Use extreme caution when entering buildings.\n\n
+        • Wear sturdy shoes. The most common injury following a disaster is cut feet.\n\n
+        • Use ONLY battery-powered lighting. Flammable material may be present.\n\n
+        • Look for fire hazards (such as damaged gas lines, flooded electrical circuits, or submerged furnaces).\n\n
+        • Check for gas leaks. If you smell gas or hear a blowing or hissing noise, open a window and quickly leave the
+        building. If possible turn off the gas at the outside main valve. Call the gas company.\n\n
+        • Report broken utility lines to appropriate authorities.\n\n
+        • Check for electrical system damage (sparks, broken or frayed wires, or the smell of burning insulation). Turn
+        off the electricity at the main circuit breaker if you can reach it without stepping in water.\n\n
+        • Examine walls, floors, doors, windows, and ceilings for risk of collapsing.\n\n
+        • Watch out for animals that might have entered with the floodwaters.\n\n
+        • Let the building air out to remove foul odors or escaping gas. \n\n
+        Take pictures of the damage, both of the building and its contents, for insurance claims.\n\n
+        Get professional help.\n\n
+        • Seek necessary medical care. Do not neglect minor wounds or illnesses.\n\n
+        • Food, clothing, shelter, and first aid are available from the American Red Cross.\n\n
+        • If the gas has been turned off for any reason, it must be turned back on by a professional.\n\n
+        • Have an electrician check the electrical system and appliances.\n\n
+        • Wells should be pumped out and the water tested for purity before drinking.\n\n
+        Your home is no longer a safe place.\n\n
+        • Throw away medicine, food, or water that had contact with floodwaters (including canned goods).\n\n
+        • If water is of questionable purity, boil drinking water for 10 minutes.\n\n
+        • Restrict children from playing in flooded areas.\n\n
+        • Keep windows and doors open for ventilation.\n\n
+        • Pump out flooded basements gradually (removing about 1/3 of the water volume each day) to avoid structural
+        damage.\n\n
+        • Keep the power off until an electrician has inspected the system for safety. All electrical equipment should
+        be checked and dried before being returned to service.\n\n
+        • Clean and disinfect everything that got wet.\n\n
+        • Service damaged sewage systems as soon as possible.\n\n
+        When making repairs, protect your property from future flood damage.\n\n
+        • Follow local building codes.\n\n
+        • Use flood-resistant materials and techniques.\n\n
+        • Elevate electrical components above the potential flood height.\n\n
+        • Elevate utilities (washer, dryer, furnace, and water heater) above the level of anticipated flooding.\n\n
+        • Consider elevation of the entire structure.\n\n
+        • Install a backflow valve in the sewer system.\n\n
+    </string>
+
+    // ##### Water
+
+    <string name="swater_h">-: Water :-</string>
+    <string name="swater_t1">\n
+
+        \n\nPrepare an Emergency Water Supply
+        \n\n
+        \n\n Store at least 1 gallon of water per day for each person and each pet. Consider storing more water than
+        this for hot climates, for pregnant women, and for people who are sick.
+        \n\n Store at least a 3-day supply of water for each person and each pet. Try to store a 2-week supply if
+        possible.
+        \n\n Observe the expiration date for store-bought water; replace other stored water every 6 months.
+        \n\n Store a bottle of unscented liquid household chlorine bleach to disinfect your water and to use for general
+        cleaning and sanitizing. Try to store bleach in an area where the average temperature stays around 70°F (21°C).
+        Because the amount of active chlorine in bleach decreases over time due to normal decay, consider replacing the
+        bottle each year.
+        \n\n
+
+        \n\nWater Containers (Cleaning and Storage)
+        \n\n
+        \n\nUnopened commercially bottled water is the safest and most reliable emergency water supply.
+        \n\n
+        \n\nUse of food-grade water storage containers, such as those found at surplus or camping supply stores, is
+        recommended if you prepare stored water yourself.
+        \n\n
+        \n\nBefore filling with safe water, use these steps to clean and sanitize storage containers:
+        \n\n
+        \n\n Wash the storage container with dishwashing soap and water and rinse completely with clean water.
+        \n\n Sanitize the container by adding a solution made by mixing 1 teaspoon of unscented liquid household
+        chlorine bleach in one quart of water.
+        \n\n Cover the container and shake it well so that the sanitizing bleach solution touches all inside surfaces of
+        the container.
+        \n\n Wait at least 30 seconds and then pour the sanitizing solution out of the container.
+        \n\n Let the empty sanitized container air-dry before use OR rinse the empty container with clean, safe water
+        that already is available.
+        \n\n
+        \n\nAvoid using the following containers to store safe water:
+        \n\n
+        \n\n Containers that cannot be sealed tightly
+        \n\n Containers that can break, such as glass bottles
+        \n\n Containers that have ever held toxic solid or liquid chemicals, such as bleach or pesticides
+        \n\n Plastic or cardboard bottles, jugs, and containers used for milk or fruit juices
+        \n\n
+        \n\nFor proper water storage:
+        \n\n
+        \n\n Label container as “drinking water” and include storage date.
+        \n\n Replace stored water that is not commercially bottled every six months.
+        \n\n Keep stored water in a place with a fairly constant cool temperature.
+        \n\n Do not store water containers in direct sunlight.
+        \n\n Do not store water containers in areas where toxic substances such as gasoline or pesticides are present.
+        \n\n
+
+    </string>
+
+    // ##### Wild Fire
+
+    <string name="swildfire_h">-: Wild Fire :-</string>
+    <string name="swildfire_t1">
+        \nBefore a Fire
+        \n\n• Make digital copies of valuable documents and records like birth certificates.
+        \n\n• Sleep with your door closed.
+        \n\n• Contact your local fire department for information on training on the proper use and maintenance of fire
+        extinguishers.
+        \n\n• Consider installing an automatic fire sprinkler system in your residence.
+        \n\n• A working smoke alarm significantly increases your chances of surviving a deadly home fire.
+        \n\n• Create and Practice a Fire Escape Plan
+        \n\n• A smoke alarm significantly increases your chances of surviving a deadly home fire.
+
+
+        \n\nDuring Wild Fire
+        \n\nStay informed
+        \n\nPay attention to local weather forecasts, especially those that may affect fire conditions, and always
+        listen to instructions given by local emergency management officials.
+        \n\nProtect Yourself from Smoke
+        \n\nTake steps to protect your health if your community is affected by smoke. Try to limit your time outdoors
+        and practice safe driving. Be aware of smoke on roads because it could decrease visibility. Learn more about how
+        you can protect your health and be safe if you are exposed to wildfire smoke.
+        \n\nEvacuate Safely
+        \n\n
+        \n\nYou may be asked by public authorities to evacuate or you may decide to evacuate. Read about how to evacuate
+        safely and how to develop a family disaster plan, including:
+        \n\n• Finding out what could happen to you
+        \n\n• Making a disaster plan
+        \n\n• Completing the checklist
+        \n\n• Practicing your plan
+        \n\nStay Healthy During Power Outages
+        \n\nLarge fires can cause long-term power outages. Read about what to do if your power goes out, including:
+        \n\n• Preventing carbon monoxide poisoning
+        \n\n• Food safety
+        \n\n• Safe drinking water
+        \n\n• Power line hazards
+
+
+        \n\nAfter Wild Fire
+        \n\nProtect Your Physical Well-Being
+
+        \n\n• Drive safely: Be alert for broken traffic lights and missing street signs. Watch out for trash and debris
+        on the road.
+        \n\n• Be careful around damaged buildings or structures: Wait to return to buildings during daylight hours, when
+        it is easier to avoid hazards, especially if the electricity is off and you have no lights.
+        \n\n• Cleanup Safely: Wear proper safety equipment, avoid carbon monoxide poisoning, and avoid electrical
+        hazards.
+        \n\nProtect Your Emotional Well-Being
+        \n\nAfter a disaster, such as a wildfire, you may feel sad, mad, guilty, or numb. You may have trouble sleeping,
+        be constantly watching for danger, or be jumpy, irritable, or angry. Contact with certain people, sights, or
+        sounds may bring back bad memories or an overwhelming sense of grief. These are all normal reactions to stress,
+        as this is a difficult time. Here are some things you can do to help you cope with stress and protect your
+        emotional and physical well-being:
+        \n\n• Stay Active. Volunteer for work in a shelter, community, school, or faith-based organization.
+        \n\n• Help with cleanup and repair if it is safe to do so.
+        \n\n• Spend time with others.
+        \n\n• Participate in activities you enjoy.
+        \n\n• Take breaks from the cleanup efforts.
+        \n\n• Exercise (indoors if air quality is not acceptable).
+        \n\n• Keep a journal.
+        \n\n• Talk about your feelings.
+        \n\nKeep in mind that returning to the way you felt before the disaster may take time. Talk to a psychologist,
+        social worker, or professional counselor if you are having trouble with the following:
+        \n\n• Managing your feelings
+        \n\n• Completing daily tasks
+        \n\n• Caring for your family
+    </string>
+
+    // Drought
+
+    <string name="adrought_h">-: Drought :-</string>
+    <string name="adrought_t1">
+        \n\nNearly every part of our country experiences periods of reduced rainfall. If we plan for drought, then we
+        can enjoy the benefits of normal or rainy years and not get caught unprepared in dry years.
+        \n\nBefore a Drought
+        \n\nStrategies for drought preparedness focus mainly on water conservation. Make these practices a part of your
+        daily life and help preserve this essential resource.
+        \n\nIndoor Water Conservation Tips Prior to a Drought
+        \n\nGENERAL
+        \n\n * Never pour water down the drain when there may be another use for it. For example, use it to water your
+        indoor plants or garden.
+        \n\n * Repair dripping faucets by replacing washers. One drop per second wastes 2,700 gallons of water per year.
+        \n\n * Check all plumbing for leaks and have any leaks repaired by a plumber.
+        \n\n * Retrofit all household faucets by installing aerators with flow restrictors.
+        \n\n * Install an instant hot water heater on your sink.
+        \n\n * Insulate your water pipes to reduce heat loss and prevent them from breaking.
+        \n\n * Install a water-softening system only when the minerals in the water would damage your pipes. Turn the
+        softener off while on vacation.
+        \n\n * Choose appliances that are more energy and water efficient.
+        \n\nBATHROOM
+        \n\n * Consider purchasing a low-volume toilet that uses less than half the water of older models. Note: In many
+        areas, low-volume units are required by law.
+        \n\n * Install a toilet displacement device to cut down on the amount of water needed to flush. Place a
+        one-gallon plastic jug of water into the tank to displace toilet flow (do not use a brick, it may dissolve and
+        loose pieces may cause damage to the internal parts). Be sure installation does not interfere with the operating
+        parts.
+        \n\n * Replace your showerhead with an ultra-low-flow version.
+        \n\nKITCHEN
+        \n\n * Start a compost pile as an alternate method of disposing of food waste or simply dispose of food in the
+        garbage. (Kitchen sink disposals require a lot of water to operate properly).
+        \n\nOutdoor Water Conservation Tips Prior to a Drought
+        \n\nGENERAL
+        \n\n * Check your well pump periodically. If the automatic pump turns on and off while water is not being used,
+        you have a leak.
+        \n\n * Plant native and/or drought-tolerant grasses, ground covers, shrubs, and trees. Once established, plants
+        adapted to your local climate do not need water as frequently and usually will survive a dry period without
+        watering. Small plants require less water to become established. Group plants together based on similar water
+        needs.
+        \n\n * Install irrigation devices that are the most water efficient for each use, such as micro and drip
+        irrigation, and soaker hoses.
+        \n\n * Use mulch to retain moisture in the soil. Mulch also helps control weeds that compete with landscape
+        plants for water.
+        \n\n * Avoid purchasing recreational water toys that require a constant stream of water.
+        \n\n * Avoid installing ornamental water features (such as fountains) unless they use re-circulated water.
+        \n\n * Consider rainwater harvesting where practical.
+        \n\n * Contact your local water provider for information and assistance.
+        \n\nLAWN CARE
+        \n\n * Position sprinklers so water lands on the lawn and shrubs and not on paved areas.
+        \n\n * Repair sprinklers that spray a fine mist. Most misting issues result from a pressure problem, properly
+        regulating pressure in an irrigation system will prevent misting.
+        \n\n * Check sprinkler systems and timing devices regularly to be sure they operate properly.
+        \n\n * Raise the lawn mower blade to at least three inches or to its highest level. A higher cut encourages
+        grass roots to grow deeper, shades the root system, and holds soil moisture.
+        \n\n * Plant drought-resistant lawn seed. Reduce or eliminate lawn areas that are not used frequently.
+        \n\n * Avoid over-fertilizing your lawn. Applying fertilizer increases the need for water. Apply fertilizers
+        that contain slow-release, water-insoluble forms of nitrogen.
+        \n\n * Choose a water-efficient irrigation system such as drip irrigation for your trees, shrubs, and flowers.
+        \n\n * Turn irrigation down in fall and off in winter. Water manually in winter only if needed.
+        \n\n * Put a layer of mulch around trees and plants to reduce evaporation and keep the soil cool. Organic mulch
+        also improves the soil and prevents weeds.
+        \n\n * Invest in a weather-based irrigation controller—or a smart controller. These devices will automatically
+        adjust the watering time and frequency based on soil moisture, rain, wind, and evaporation and transpiration
+        rates. Check with your local water agency to see if there is a rebate available for the purchase of a smart
+        controller.
+        \n\nPOOL
+        \n\n * Install a new water-saving pool filter. A single back flushing with a traditional filter uses 180 to 250
+        gallons of water.
+        \n\n * Cover pools and spas to reduce evaporation of water.
+        \n\nDuring a Drought
+        \n\nAlways observe state and local restrictions on water use during a drought. If restricted, for example, do
+        not water your lawn, wash your car, or other non-essential uses, to help ensure there is enough water for
+        essential uses. Contact your state or local government for current information and suggestions.
+        \n\nIndoor Water Conservation Tips While in a Drought
+        \n\nBATHROOM
+        \n\n * Avoid flushing the toilet unnecessarily. Dispose of tissues, insects, and other similar waste in the
+        trash rather than the toilet.
+        \n\n * Avoid taking baths—take short showers—turn on water only to get wet and lather and then again to rinse
+        off.
+        \n\n * Avoid letting the water run while brushing your teeth, washing your face or shaving.
+        \n\n * Place a bucket in the shower to catch excess water for watering plants.
+        \n\nKITCHEN
+        \n\n * Operate automatic dishwashers only when they are fully loaded. Use the "light wash" feature, if
+        available, to use less water.
+        \n\n * Hand wash dishes by filling two containers—one with soapy water and the other with rinse water containing
+        a small amount of chlorine bleach.
+        \n\n * Clean vegetables in a pan filled with water rather than running water from the tap.
+        \n\n * Store drinking water in the refrigerator. Do not let the tap run while you are waiting for water to cool.
+        \n\n * Avoid wasting water waiting for it to get hot. Capture it for other uses such as plant watering or heat
+        it on the stove or in a microwave.
+        \n\n * Avoid rinsing dishes before placing them in the dishwasher; just remove large particles of food. (Most
+        dishwashers can clean soiled dishes very well, so dishes do not have to be rinsed before washing)
+        \n\n * Avoid using running water to thaw meat or other frozen foods. Defrost food overnight in the refrigerator
+        or use the defrost setting on your microwave oven.
+        \n\nLAUNDRY
+        \n\n * Operate automatic clothes washers only when they are fully loaded or set the water level for the size of
+        your load.
+        \n\nOutdoor Water Conservation Tips While in a Drought
+        \n\nCAR WASHING
+        \n\n * Use a commercial car wash that recycles water.
+        \n\n * If you wash your own car, use a shut-off nozzle that can be adjusted down to a fine spray on your hose.
+        \n\nLAWN CARE
+        \n\n * Avoid over watering your lawn and water only when needed:
+        \n\n * A heavy rain eliminates the need for watering for up to two weeks. Most of the year, lawns only need one
+        inch of water per week.
+        \n\n * Check the soil moisture levels with a soil probe, spade or large screwdriver. You do not need to water if
+        the soil is still moist. If your grass springs back when you step on it, it does not need water yet.
+        \n\n * If your lawn does require watering, do so early in the morning or later in the evening, when temperatures
+        are cooler.
+        \n\n * Check your sprinkler system frequently and adjust sprinklers so only your lawn is watered and not the
+        house, sidewalk, or street.
+        \n\n * Water in several short sessions rather than one long one, in order for your lawn to better absorb
+        moisture and avoid runoff.
+        \n\n * Use a broom or blower instead of a hose to clean leaves and other debris from your driveway or sidewalk.
+        \n\n * Avoid leaving sprinklers or hoses unattended. A garden hose can pour out 600 gallons or more in only a
+        few hours.
+        \n\n * In extreme drought, allow lawns to die in favor of preserving trees and large shrubs.
+        \n\n
+
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_live_updates">LiveUpdates</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main_map">Map</string>
+
+</resources>

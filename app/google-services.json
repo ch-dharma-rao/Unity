@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "891883060800",
+    "firebase_url": "https://humanity-fc7ca.firebaseio.com",
+    "project_id": "humanity-fc7ca",
+    "storage_bucket": "humanity-fc7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891883060800:android:102c7116b7d29e0f",
+        "android_client_info": {
+          "package_name": "dharma.humanity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891883060800-44jgk00gni6m3n2v7kj3umeu2r3vd05q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dharma.humanity",
+            "certificate_hash": "a6b98438baac73477003f8f6c3d14efa6aab9238"
+          }
+        },
+        {
+          "client_id": "891883060800-r40it7i0pt4k5scnpj957a2ji17fqjaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dharma.humanity",
+            "certificate_hash": "3cae96229a585a13007befd756dbb5049a727393"
+          }
+        },
+        {
+          "client_id": "891883060800-08v88fj2bi9cismttlaltl01ir001593.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dharma.humanity",
+            "certificate_hash": "8e5a67d0525cbaf91e26f72bbabe6e2c1530a8d5"
+          }
+        },
+        {
+          "client_id": "891883060800-qme7e86ngdl27pgdtktrbsd62qqfc9l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCypt6l3ncHqESo-TvVO-J8HyD5Nh1vvDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891883060800-qme7e86ngdl27pgdtktrbsd62qqfc9l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
